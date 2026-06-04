@@ -55,6 +55,7 @@ BI-Transporte-AMSS/
 | VMT Rutas Interdepartamentales | Shapefile | 619 |
 | VMT Transporte Colectivo SV | Shapefile | 2,383 |
 | OPAMSS Atlas Metropolitano | PDF / tablas | 14 municipios |
+| FACT_Parada_Servicio | csv | 45,229 |
 
 ---
 

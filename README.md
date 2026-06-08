@@ -10,5 +10,5 @@
 | Vicente Beltran, Mario Ernesto | 25-0745-2022 |
 | Rosales Velasquez, Jose David | 17-0671-2022 |
 
-**Docente:** Ing.Jorge Machado 
+## **Docente:** Ing.Jorge Machado 
 **Fecha de entrega:** 07 Junio 2026 
